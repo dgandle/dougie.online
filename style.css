@@ -11,3 +11,14 @@
 .entry {
     line-height: 50%;
 }
+
+.project {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.aside {
+    font-size: x-small;
+    color: grey;
+}
